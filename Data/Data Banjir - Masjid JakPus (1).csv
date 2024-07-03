@@ -1,58 +1,78 @@
 kode pengungsian,name,alamat lengkap,latitude,longitude,kapasitas (jiwa)
-JPM1,Istiqlal Mosque,"Jl. Taman Wijaya Kusuma, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",-6.17017,106.83139,1000
-JPM2,Al-I'tisham Mosque,"Jl. H. Abdul Jalil No.9, RT.10/RW.9, Karet Tengsin, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10250",-6.2048214,106.8187024,1000
-JPM3,"Al Ma'mur Jami Mosque, Kebon Kacang","Jl. K.H. Mas Mansyur No.6, RT.14/RW.7, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.189247,106.815138,1000
-JPM4,Al-Makmur Mosque,"Jl. Kepu Dalam II No.02 2, RT.6/RW.2, Kemayoran, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10620",-6.1642666,106.8427961,1000
-JPM5,Masjid Jami'e Darussalam,"No, Jl. Kotabumi Ujung No.23, RT.8, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.1991016,106.8195564,1000
-JPM6,Al Istiqomah Mosque,"Jl. K.H. Mas Mansyur No.57 5, RT.5/RW.9, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.196299,106.814465,1000
-JPM7,Lautze Mosque,"Jl. Lautze No.87 89, RT.10/RW.3, Karang Anyar, Sawah Besar, Central Jakarta City, Jakarta 10740",-6.1588926,106.8297858,1000
-JPM8,Masjid Assyafi'iyyah,"Utara I Jl. Pos No.5, RT.4/RW.1, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",-6.1661476,106.8323348,1000
-JPM9,Masjid Baitul Huda,"Jalon Kb. Kacang XXXI No.31, Kb. Kacang, Kota PusatTanahabang,, RT.6/RW.4, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1931542,106.8204238,1000
-JPM10,Fatahillah Mosque,"RR67+PJ2, Kampung Bali, Tanah Abang, Central Jakarta City, Jakarta 10250",-6.1882272,106.8140137,1000
-JPM11,Al Amanah Mosque,"Jl. Lap. Banteng Timur No.2 - 4, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",-6.1678576,106.8373596,1000
-JPM12,Said Na'um Jami Mosque,"Jl. Kb. Kacang 9 No.25 14, RT.14/RW.5, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1911963,106.8180785,1000
-JPM13,Masjid At Taqwa,"Jl. K.H. Mas Mansyur No.100 7, RT.6/RW.17, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.1976707,106.8141849,1000
-JPM14,Al-Barokah Mosque,"Jalan Kh. Mas Mansyur No.25A, Kebon Kacang, Tanah Abang, RW.10, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.1921689,106.8151271,1000
-JPM15,Masjid Ar-Rahmah,"Jl. Kb. Kacang 6 No.62 14, RT.2/RW.5, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.190749,106.8176688,1000
-JPM16,Masjid Al Ihsan,"Jl. Taman Kb. Sirih III No.8, RT.10/RW.10, Kp. Bali, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10250",-6.1843468,106.8211298,1000
-JPM17,Masjid AL MUJAHIDIN,"Jalan Kramat Sentiong,Kemayoran., RT.13/RW.1, Johar Baru, RT.13/RW.1, Johar Baru, Jakarta Pusat, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10560",-6.1830835,106.851992,1000
-JPM18,Masjid Al Arqam,"Jl. Dr. Sutomo No.8, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",-6.1656277,106.837501,1000
-JPM19,Al Amin Mosque,"Jl. Kb. Kacang 1 No.107 12, RT.12/RW.2, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1881347,106.8205793,1000
-JPM20,Al-Hidaayah Jami' Mosque Rusun Tanah Tinggi,"Rusun Tanah Tinggi, 10540, RT.1/RW.014, Tanah Tinggi, Kec. Johar Baru, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10540",-6.1767837,106.8495013,1000
-JPM21,Masjid Nurul Huda,"Jl. Kb. Kacang 48 No.8 3, RT.3/RW.8, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1932819,106.8160947,1000
-JPM22,Jami Al-Mabrur Mosque,"1, Jl. Kramat Pulo Gundul No.7, RT.1/RW.6, Tanah Tinggi, Kec. Johar Baru, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10540",-6.1814082,106.8481162,1000
-JPM23,Jami' Asy-Syaakiriin Mosque,"Jl. Kebon Melati 1 No.5, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.1943908,106.8154922,1000
-JPM24,Masjid Al Fawaz,"Jl. Bungur Besar Raya No.3, RT.4/RW.1, Gn. Sahari Sel., Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10610",-6.1623266,106.8400783,1000
-JPM25,Masjid Al Abror Gedung Pos Ibukota,"RRJM+WHW, Pasar Baru, Sawah Besar, Central Jakarta City, Jakarta 10710",-6.1676373,106.8339409,1000
-JPM26,"Masjid Jami Nurul Islam, Karang Anyar, Jakarta Pusat","Jl. B III No.Dalam, RT.2/RW.5, Karang Anyar, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10745",-6.1557544,106.8283274,1000
-JPM27,Masjid Jami Alkhosyi'ien,"Jl 23, RT.6/RW.3, Kebon Kacang, Tanah Abang, Central Jakarta City, Jakarta 10240",-6.189961,106.820434,1000
-JPM28,An Nur Mosque,"JL. Kelinci II, No. 3 RT. 012/04, Sawah Besar, RT.13/RW.4, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",-6.1640169,106.8357918,1000
-JPM29,Masjid Al-Muawanah,"Jl. Kebon Dalam No.45, RT.6/RW.6, Kp. Bali, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10250",-6.1851848,106.8134225,1000
-JPM30,Masjid An Nur,"JL. Tanah Tinggi, 1 RT 03 RW 02, RT.7/RW.1, Tanah Tinggi, Kec. Johar Baru, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10540",-6.1776592,106.8463101,1000
-JPM31,Masjid At-Taqwa Thamres,"Thamrin Residences, Lt.P3, RT.3, RT.3/RW.8, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.1967674,106.8166378,1000
-JPM32,Masjid Jamian-Nimah,"Jl. Kebon Kacang III No. 49 RT 008 RW 05 Kebon Kacang Tanah Abang Jakarta Pusat DKI Jakarta, RT.3/RW.4, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1890827,106.8177151,1000
-JPM33,Masjid Jami' Al-Wustho,"JL. Pintu Air 5, Rt. 03 Rw. 02, Sawah Besar, RT.2/RW.8, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10120",-6.1633539,106.8295231,1000
-JPM34,Mosque Al Barokah Kemayoran,"Jl. Kepu Dalam IV No.181, RT.14/RW.3, Kemayoran, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10620",-6.1659821,106.8444958,1000
-JPM35,Masjid Jami Al Furqon,"Jl. Kb. Kacang XI No.1, RT.15/RW.1, Dukuh Atas, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1879249,106.8221355,1000
-JPM36,Masjid Baitul Karim,"Jl. Kebun Kacang 14 No.14-16, RT.3/RW.4, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1914004,106.8193913,1000
-JPM37,Mosque Nurul Hikmah,"Jl. Kebon Kacang 41 No.14 15, RT.15/RW.8, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1925029,106.8184899,1000
-JPM38,Al-Anwar Mosque,"Jl. Kb. Kacang 1 No.85 05, RT.1/RW.5, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1880507,106.8194189,1000
-JPM39,Level 8 Thamrin city mall,"thamrin city mall, Jl. Kebon Kacang Raya No.RT.7, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1949278,106.8168859,1000
-JPM40,Masjid At-Taqwa Metro Atom,"Jl. Ps. Baru No.89-129 1, RT.1/RW.3, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",-6.1619198,106.8328919,1000
-JPM41,Parkir istiqlal,"RRHJ+FXG, Pasar Baru, Sawah Besar, Central Jakarta City, Jakarta 10710",-6.1712976,106.8324544,1000
-JPM42,Masjid Al Makmur,"Jl. Jati Baru Raya No.5, RT.7/RW.3, Kp. Bali, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10250",-6.1838552,106.8131935,1000
-JPM43,Masjid Al Barkah,"Jl. Lontar Atas No.121, RT.2/RW.12, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.1926406,106.8130936,1000
-JPM44,Masjid Al Husna,"Jl. Al Habsyi No.10 4, RT.6/RW.7, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1902531,106.8145739,1000
-JPM45,Masjid An Nur Sawah Besar,"Jl. Pasar Baru Selatan No.11, RT.2/RW.1, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",-6.1646161,106.8360814,1000
-JPM46,Masjid Al-Huda,"Jl. Kp. Bali XXXIII No.3, RT.2/RW.10, Kp. Bali, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10250",-6.1864188,106.8215982,1000
-JPM47,Masjid Ar Rahman,"JL Petamburan, I/25 RT 10 RW 03, Tanah Abang, RT.11/RW.1, Petamburan, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10260",-6.192366,106.8083777,1000
-JPM48,Al-Musyaffa Mosque,"Jl. Kb. Melati 4 No.6 6, RT.6/RW.9, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.1955651,106.8155914,1000
-JPM49,Masjid atap tanah abang,"Ps. Tanah Abang, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1890096,106.8119312,1000
-JPM50,Masjid Al Muhajirin,"Jl. K.H. Mas Mansyur No.1D 15, RT.15/RW.6, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1888683,106.8155986,1000
-JPM51,Masjid Jami Soeltan Soenaro - Tanah Abang,"Jl. Jemb. Tinggi No.2, RT.16/RW.9, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.189957,106.8118228,1000
-JPM52,Masjid Al-Muttahidah,"Jalan Kramat Pulo Gundul, RT 04 rw 10 no k134, Tanah Tinggi, Kec. Johar Baru",-6.1817087,106.8476854,1000
-JPM53,masjid al dakwah,"Jl. Tanah Tinggi Gg. I No.8, RT.9/RW.1, Tanah Tinggi, Kec. Johar Baru, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10540",-6.1759299,106.8460613,1000
-JPM54,Masjid Al Ikhlas Walmagfiroh,"Jl. Lontar Bawah No.7 2, RT.01/RW.01, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1917136,106.8131633,1000
-JPM55,Masjid An Nur,"Jl. Kepu Dalam VII No.101 4, RT.5/RW.3, Kemayoran, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10620",-6.167584,106.8453887,1000
-JPM56,Masjid Al Arqom,"Ps. Regional Tanah Abang, Jl. Kb. Jati No.7 1, RT.1/RW.9, Kp. Bali, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.188858,106.812688,1000
-JPM57,Masjid Al Ikhwan Gg Mess,"Jalan Gg. Mess Dalam No.26, RT.16/RW.17, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.1969867,106.8133903,1000
+JPM1,Istiqlal Mosque,"Jl. Taman Wijaya Kusuma, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",-6.17017,106.83139,3000
+JPM2,Al-I'tisham Mosque,"Jl. H. Abdul Jalil No.9, RT.10/RW.9, Karet Tengsin, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10250",-6.2048214,106.8187024,3000
+JPM3,"Al Ma'mur Jami Mosque, Kebon Kacang","Jl. K.H. Mas Mansyur No.6, RT.14/RW.7, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.189247,106.815138,3000
+JPM4,Al-Makmur Mosque,"Jl. Kepu Dalam II No.02 2, RT.6/RW.2, Kemayoran, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10620",-6.1642666,106.8427961,3000
+JPM5,Masjid Jami'e Darussalam,"No, Jl. Kotabumi Ujung No.23, RT.8, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.1991016,106.8195564,3000
+JPM6,Al Istiqomah Mosque,"Jl. K.H. Mas Mansyur No.57 5, RT.5/RW.9, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.196299,106.814465,3000
+JPM7,Lautze Mosque,"Jl. Lautze No.87 89, RT.10/RW.3, Karang Anyar, Sawah Besar, Central Jakarta City, Jakarta 10740",-6.1588926,106.8297858,3000
+JPM8,Masjid Assyafi'iyyah,"Utara I Jl. Pos No.5, RT.4/RW.1, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",-6.1661476,106.8323348,3000
+JPM9,Masjid Baitul Huda,"Jalon Kb. Kacang XXXI No.31, Kb. Kacang, Kota PusatTanahabang,, RT.6/RW.4, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1931542,106.8204238,3000
+JPM10,Fatahillah Mosque,"RR67+PJ2, Kampung Bali, Tanah Abang, Central Jakarta City, Jakarta 10250",-6.1882272,106.8140137,3000
+JPM11,Al Amanah Mosque,"Jl. Lap. Banteng Timur No.2 - 4, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",-6.1678576,106.8373596,3000
+JPM12,Said Na'um Jami Mosque,"Jl. Kb. Kacang 9 No.25 14, RT.14/RW.5, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1911963,106.8180785,3000
+JPM13,Masjid At Taqwa,"Jl. K.H. Mas Mansyur No.100 7, RT.6/RW.17, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.1976707,106.8141849,3000
+JPM14,Al-Barokah Mosque,"Jalan Kh. Mas Mansyur No.25A, Kebon Kacang, Tanah Abang, RW.10, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.1921689,106.8151271,3000
+JPM15,Masjid Ar-Rahmah,"Jl. Kb. Kacang 6 No.62 14, RT.2/RW.5, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.190749,106.8176688,3000
+JPM16,Masjid Al Ihsan,"Jl. Taman Kb. Sirih III No.8, RT.10/RW.10, Kp. Bali, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10250",-6.1843468,106.8211298,3000
+JPM17,Masjid AL MUJAHIDIN,"Jalan Kramat Sentiong,Kemayoran., RT.13/RW.1, Johar Baru, RT.13/RW.1, Johar Baru, Jakarta Pusat, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10560",-6.1830835,106.851992,3000
+JPM18,Masjid Al Arqam,"Jl. Dr. Sutomo No.8, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",-6.1656277,106.837501,3000
+JPM19,Al Amin Mosque,"Jl. Kb. Kacang 1 No.107 12, RT.12/RW.2, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1881347,106.8205793,3000
+JPM20,Al-Hidaayah Jami' Mosque Rusun Tanah Tinggi,"Rusun Tanah Tinggi, 10540, RT.1/RW.014, Tanah Tinggi, Kec. Johar Baru, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10540",-6.1767837,106.8495013,3000
+JPM21,Masjid Nurul Huda,"Jl. Kb. Kacang 48 No.8 3, RT.3/RW.8, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1932819,106.8160947,3000
+JPM22,Jami Al-Mabrur Mosque,"1, Jl. Kramat Pulo Gundul No.7, RT.1/RW.6, Tanah Tinggi, Kec. Johar Baru, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10540",-6.1814082,106.8481162,3000
+JPM23,Jami' Asy-Syaakiriin Mosque,"Jl. Kebon Melati 1 No.5, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.1943908,106.8154922,3000
+JPM24,Masjid Al Fawaz,"Jl. Bungur Besar Raya No.3, RT.4/RW.1, Gn. Sahari Sel., Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10610",-6.1623266,106.8400783,3000
+JPM25,Masjid Al Abror Gedung Pos Ibukota,"RRJM+WHW, Pasar Baru, Sawah Besar, Central Jakarta City, Jakarta 10710",-6.1676373,106.8339409,3000
+JPM26,"Masjid Jami Nurul Islam, Karang Anyar, Jakarta Pusat","Jl. B III No.Dalam, RT.2/RW.5, Karang Anyar, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10745",-6.1557544,106.8283274,3000
+JPM27,Masjid Jami Alkhosyi'ien,"Jl 23, RT.6/RW.3, Kebon Kacang, Tanah Abang, Central Jakarta City, Jakarta 10240",-6.189961,106.820434,3000
+JPM28,An Nur Mosque,"JL. Kelinci II, No. 3 RT. 012/04, Sawah Besar, RT.13/RW.4, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",-6.1640169,106.8357918,3000
+JPM29,Masjid Al-Muawanah,"Jl. Kebon Dalam No.45, RT.6/RW.6, Kp. Bali, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10250",-6.1851848,106.8134225,3000
+JPM30,Masjid An Nur,"JL. Tanah Tinggi, 1 RT 03 RW 02, RT.7/RW.1, Tanah Tinggi, Kec. Johar Baru, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10540",-6.1776592,106.8463101,3000
+JPM31,Masjid At-Taqwa Thamres,"Thamrin Residences, Lt.P3, RT.3, RT.3/RW.8, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.1967674,106.8166378,3000
+JPM32,Masjid Jamian-Nimah,"Jl. Kebon Kacang III No. 49 RT 008 RW 05 Kebon Kacang Tanah Abang Jakarta Pusat DKI Jakarta, RT.3/RW.4, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1890827,106.8177151,3000
+JPM33,Masjid Jami' Al-Wustho,"JL. Pintu Air 5, Rt. 03 Rw. 02, Sawah Besar, RT.2/RW.8, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10120",-6.1633539,106.8295231,3000
+JPM34,Mosque Al Barokah Kemayoran,"Jl. Kepu Dalam IV No.181, RT.14/RW.3, Kemayoran, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10620",-6.1659821,106.8444958,3000
+JPM35,Masjid Jami Al Furqon,"Jl. Kb. Kacang XI No.1, RT.15/RW.1, Dukuh Atas, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1879249,106.8221355,3000
+JPM36,Masjid Baitul Karim,"Jl. Kebun Kacang 14 No.14-16, RT.3/RW.4, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1914004,106.8193913,3000
+JPM37,Mosque Nurul Hikmah,"Jl. Kebon Kacang 41 No.14 15, RT.15/RW.8, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1925029,106.8184899,3000
+JPM38,Al-Anwar Mosque,"Jl. Kb. Kacang 1 No.85 05, RT.1/RW.5, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1880507,106.8194189,3000
+JPM39,Level 8 Thamrin city mall,"thamrin city mall, Jl. Kebon Kacang Raya No.RT.7, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1949278,106.8168859,3000
+JPM40,Masjid At-Taqwa Metro Atom,"Jl. Ps. Baru No.89-129 1, RT.1/RW.3, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",-6.1619198,106.8328919,3000
+JPM41,Parkir istiqlal,"RRHJ+FXG, Pasar Baru, Sawah Besar, Central Jakarta City, Jakarta 10710",-6.1712976,106.8324544,3000
+JPM42,Masjid Al Makmur,"Jl. Jati Baru Raya No.5, RT.7/RW.3, Kp. Bali, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10250",-6.1838552,106.8131935,3000
+JPM43,Masjid Al Barkah,"Jl. Lontar Atas No.121, RT.2/RW.12, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.1926406,106.8130936,3000
+JPM44,Masjid Al Husna,"Jl. Al Habsyi No.10 4, RT.6/RW.7, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1902531,106.8145739,3000
+JPM45,Masjid An Nur Sawah Besar,"Jl. Pasar Baru Selatan No.11, RT.2/RW.1, Ps. Baru, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10710",-6.1646161,106.8360814,3000
+JPM46,Masjid Al-Huda,"Jl. Kp. Bali XXXIII No.3, RT.2/RW.10, Kp. Bali, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10250",-6.1864188,106.8215982,3000
+JPM47,Masjid Ar Rahman,"JL Petamburan, I/25 RT 10 RW 03, Tanah Abang, RT.11/RW.1, Petamburan, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10260",-6.192366,106.8083777,3000
+JPM48,Al-Musyaffa Mosque,"Jl. Kb. Melati 4 No.6 6, RT.6/RW.9, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.1955651,106.8155914,3000
+JPM49,Masjid atap tanah abang,"Ps. Tanah Abang, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1890096,106.8119312,3000
+JPM50,Masjid Al Muhajirin,"Jl. K.H. Mas Mansyur No.1D 15, RT.15/RW.6, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1888683,106.8155986,3000
+JPM51,Masjid Jami Soeltan Soenaro - Tanah Abang,"Jl. Jemb. Tinggi No.2, RT.16/RW.9, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.189957,106.8118228,3000
+JPM52,Masjid Al-Muttahidah,"Jalan Kramat Pulo Gundul, RT 04 rw 10 no k134, Tanah Tinggi, Kec. Johar Baru",-6.1817087,106.8476854,3000
+JPM53,masjid al dakwah,"Jl. Tanah Tinggi Gg. I No.8, RT.9/RW.1, Tanah Tinggi, Kec. Johar Baru, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10540",-6.1759299,106.8460613,3000
+JPM54,Masjid Al Ikhlas Walmagfiroh,"Jl. Lontar Bawah No.7 2, RT.01/RW.01, Kb. Kacang, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.1917136,106.8131633,3000
+JPM55,Masjid An Nur,"Jl. Kepu Dalam VII No.101 4, RT.5/RW.3, Kemayoran, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10620",-6.167584,106.8453887,3000
+JPM56,Masjid Al Arqom,"Ps. Regional Tanah Abang, Jl. Kb. Jati No.7 1, RT.1/RW.9, Kp. Bali, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10240",-6.188858,106.812688,3000
+JPM57,Masjid Al Ikhwan Gg Mess,"Jalan Gg. Mess Dalam No.26, RT.16/RW.17, Kb. Melati, Kecamatan Tanah Abang, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10230",-6.1969867,106.8133903,3000
+JPM58,Jami Mosque of Al Amir Kemayoran,"Jl. Angkasa No.14, RT.4/RW.9, Gn. Sahari Sel., Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10610",-6.158101,106.8479139,3000
+JPM59,Al-Makmur Mosque,"Jl. Kepu Dalam II No.02 2, RT.6/RW.2, Kemayoran, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10620",-6.1642666,106.8427961,3000
+JPM60,Al Ikhlash Mosque,"Jl. Lancar Raya No.9, RT.9/RW.7, Sumur Batu, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10640",-6.1666544,106.8725302,3000
+JPM61,Masjid Raya Al-Mustaqiem,"Jl. Nilam Raya No.1, RT.14/RW.2, Sumur Batu, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10640",-6.1621276,106.8686068,3000
+JPM62,Masjid Jami Al Ikhwan,"Jl. Sumur Batu Raya No.1, RT.1/RW.8, Sumur Batu, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10640",-6.165211,106.8653568,3000
+JPM63,Al Madjid Mosque,"Jl. Serdang Raya No.Kel 2, RT.2/RW.4, Serdang, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10650",-6.162756,106.8609076,3000
+JPM64,Masjid Akbar Kemayoran,"Masjid Akbar Kemayoran RT.13, RW.6, Kb. Kosong, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10630",-6.1557138,106.8541019,3000
+JPM65,Masjid Jami Addhiya Guru Sya'ban,"Jl. Kemayoran Bar. No.29 5, RT.5/RW.7, Kemayoran, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10620",-6.1638786,106.8466916,3000
+JPM66,Masjid Dirgantara Al-Hidayah,"Jl. Angkasa No.10, RT.14/RW.10, Gn. Sahari Sel., Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10720",-6.1541871,106.843654,3000
+JPM67,Mosque Al Barokah Kemayoran,"Jl. Kepu Dalam IV No.181, RT.14/RW.3, Kemayoran, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10620",-6.1659821,106.8444958,3000
+JPM68,Masjid Al Fawaz,"Jl. Bungur Besar Raya No.3, RT.4/RW.1, Gn. Sahari Sel., Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10610",-6.1623266,106.8400783,3000
+JPM69,At-Taqwa Mosque,"VR2V+VCQ, RW.10, North Gunung Sahari, Sawah Besar, Central Jakarta City, Jakarta 14410",-6.1477778,106.8436111,3000
+JPM70,Masjid Al Ihsan Bandar Kemayoran,"Jl. Rajawali Selatan Raya No.1, RT.4/RW.7, Gn. Sahari Utara, Kecamatan Sawah Besar, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10720",-6.1443173,106.843585,3000
+JPM71,Al-Huda Mosque,"Jl. Raya, Jl. Utan Panjang Bar. Kel No.7, RT.5/RW.2, Kb. Kosong, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10650",-6.1637633,106.8524328,3000
+JPM72,Masjid Al-Barkah,"Jalan: E4 No.5, RT.8/RW.9, Cemp. Baru, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10640",-6.1641579,106.8607779,3000
+JPM73,Riyaadlul Nur Jannah Mosque,"RVG5+MMC, RT.4/RW.2, Cempaka Baru, Kemayoran, Central Jakarta City, Jakarta",-6.1733129,106.8591319,3000
+JPM74,Masjid Al Ihsan,"Jl. Kemayoran Gempol No.2, RT.02/RW.5, Kb. Kosong, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10630",-6.1631739,106.8526193,3000
+JPM75,Masjid At-Taubah,"Jl. Rusun Dakota No.3, RT.7/RW.8, Kb. Kosong, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10630",-6.155396,106.8570981,3000
+JPM76,Masjid Jami' Haji Sapri,"Bendungan Jago Terusan No.17-23, Cempaka Baru, Kemayoran, RT.1/RW.10, Cemp. Baru, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10650",-6.1624817,106.8581613,3000
+JPM77,Masjid Jamiul Huda,"Jl. Serdang Baru No.3, RT.3/RW.5, Serdang, Kec. Kemayoran, Kota Jakarta Pusat, Daerah Khusus Ibukota Jakarta 10650",-6.1592991,106.863795,3000
